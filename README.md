@@ -1,5 +1,6 @@
 # 📚 圖書館索書號比較工具
 
+![image]https://github.com/Coizvixxy/lcsort/blob/main/image.png
 這是一個幫助你比較圖書館索書號順序的網頁工具 🔍
 
 ## ✨ 功能特色
